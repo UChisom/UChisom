@@ -1,8 +1,8 @@
 ## Skills 
-- Python - Strong 
+- Python - Proficient 
 - Critical and Analytical Reasoning - Strong
-- SQL - Good
-- Advanced Excel - Good
+- SQL - Strong
+- Advanced Excel - Strong
 - Tableau - Good
 
 
