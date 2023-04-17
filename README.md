@@ -4,7 +4,7 @@ Hey there, 👋 welcome to my profile.
 
 They've recorded my learning progress so far, I hope you find something you like! 🚀🚀
 
-### Here are some skills I've showcased:
+### Here are some of my skills:
 
 - Python 🐍: :muscle: Proficient
 - SQL:floppy_disk: Strong
