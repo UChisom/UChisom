@@ -1,6 +1,7 @@
-Hey there, 👋 welcome to my profile. 
+<h1>Hi, 👋 I'm Chisom</h1>
 
 > Here, you'll find of bunch of projects I've worked on in the past and some I'm currently on.
+
 
 
 ### Here are the skills and tools I've used:
