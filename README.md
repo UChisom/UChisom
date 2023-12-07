@@ -10,7 +10,7 @@
 - 💬 Let's chat about **Python, SQL, Tableau, and Optimizing ML models**
 - 📫 Reach me: [chisom.urom@gmail.com](chisom.urom@gmail.com)
 - 📄 See my experience [here.](https://ng.linkedin.com/in/chisom-urom)
-- 🥅 Current Goals: Learn more data tools and gain experience
+- 🥅 Current Goals: Learn more data tools and gain experience. dbt!!!
 - ⚡ Fun fact: Ask me about **Big 4 Consulting** 😃
 
 <br>
