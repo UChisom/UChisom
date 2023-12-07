@@ -1,13 +1,15 @@
 <h1>Hi, 👋 I'm Chisom</h1>
 <br>
 
-> ### Welcome to my Github!
+> ## Welcome to my Github!
+
+### **I'm a data guy, building everyday business solutions.**
 
 <br>
 
 - 💬 Let's chat about **Python, SQL, Tableau, and Optimizing ML models**
 - 📫 Reach me: [chisom.urom@gmail.com](chisom.urom@gmail.com)
-- 📄 See my experience [here.](linkedin.com/in/chisom-urom)
+- 📄 See my experience [here.](https://ng.linkedin.com/in/chisom-urom)
 - 🥅 Current Goals: Learn more data tools and gain experience
 - ⚡ Fun fact: Ask me about **Big 4 Consulting** 😃
 
