@@ -7,7 +7,7 @@
 
 <br>
 
-- 💬 Let's chat about **Python, SQL, Tableau, and Optimizing ML models**
+- 💬 Let's chat about **Python, SQL, Power BI, and Optimizing ML models**
 - 📫 Reach me: [chisom.urom@gmail.com](chisom.urom@gmail.com)
 - 📄 See my experience [here.](https://ng.linkedin.com/in/chisom-urom)
 - 🥅 Current Goals: Learn more data tools and gain experience. dbt 🚀
